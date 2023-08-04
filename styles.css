@@ -1,0 +1,48 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13em;
+    color: #7c795d;
+    font-family: 'Trocchi', serif;
+    font-size: 55px;
+    font-weight: normal;
+    line-height: 48px;
+}
+
+.subTitle {
+    font-size: 17px;
+    font-weight: 300;
+    color: #ffcc66;
+    text-align: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+}
+
+.product {
+    box-shadow: 1px 1px 3px;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 30px;
+    position: relative;
+    width: 600px;
+    left: 32%;
+    top:30px;
+    background-color: #efac27;
+}
+.product:hover{
+    transform: scale(1.05);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
